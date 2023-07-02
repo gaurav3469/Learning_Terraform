@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "optimum-tensor-382601",
+  "private_key_id": "db1c680ef697d209b928a7051d86163241ecff12",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCGeO9JFNyNaixF\nO8aTeJ0/mFS6FVFx08zC87Yb+MVC+vjanEy7t+RSREhymgn8zJEAXSx/58Gz8A/o\nunMy0Gpt9cRPGMY+8UApnEAjmIgRtOEGc+InWaQZ6S42Schtij/q3wVWScCjPjx8\naaaeEoKiwcq5WkTtLo5bxTJ33kwFzKDP1cNQyKByCbbs4bOCQvstR1r+h8qkMje8\nlpw6SgiGU5zFDaFXCXvzEuou28VB9sv7NUc2JbrWVZTOwGaOAaPTXpKc+Bnrkerm\ngYOvYpONtEy79RfuY1IQfAT5058+DnYb4MuQ/pY9i3xpCgmQKEsSUv+TkjLBMlvk\njPgB48IVAgMBAAECggEAFD7i7+LXLeddUPMl+4/+RNPfdcC96WBVBMkCkwWKVYJJ\ns0gy+VQ/aO9k5PQyKsB12FMu3vb6n+e1zXk83NqqG3IUI0B8oH9cBKfEtFdDrT7J\nXlpWI0yIu2nzDjNfnLZi1y7Ks+oYubsmCikx77yjtHNu3SctF3SZ9FElPwzV701e\nze/pj21gPpwDiiYNIbwXC09q82PRGUmNmzYUYi6EVrNYLDh45fColvg81sfSDB2s\ntVB8gH6GQHSR9Qsm6DMo6cvuZfTySX3mToslenqMX8CWYKb1+AKIA02R7oj4QdfJ\nS7hubFZkwGB2ZLORE0LHOPYPa54YVk3R+FXUk1qbhQKBgQC632x33qqSY5hsloWN\nnQx59trQsBWyfkWffMgjkpLiwQpHua79HJD1b6CxNMksCLM/cgjuUeYS1tLui97f\nQg/THKpTtdg2lao04FiAoltKEfCvbqt/YHCJGIwDO66yCamhu+jNYEjr06TJ0SI4\noaEGKyj07/FnXrBZolx4Sbt4QwKBgQC4N0ZOz1BRq23wiYjEKnRdD4vZZFlvD7lo\naaNccjF9sV5tyAaHay5i+nXwC3b1Ydli5O+WsXk1gMX3WYCStA93soFI17rt74wG\nwO1Pzl7UXA9sLoICpQbJwEvSAEfhRljC89zZxPbqS+CN+wrs9PdxbnXefTCpOxE3\n71N5pLhCxwKBgE/Vb2NubvSHM/EABSJQu6nHOgf5ketlYp0WE/KOhc31pkyqGQXt\nFEimXcIWyPLU7K7oKsSVnHLj780VWCuM73HDR0jn4OzA16wrQ+QAeHuWWnq4DvAl\n5S3MnNQsxR8uXZfIzVYgEkcdbcMCY1pKQp5+BctOTpVYsII6iMKizUI9AoGARnXF\n66D6HLLQUz+X00hVx76JhDYQyx0dkqVNOa/n5CaycpUegi9px6v67jzEXGj3yA6+\n4UmyjddaYRiXyAUdIXBiaOUy9403ZuHmIy9RMDKiJ4PGcJKEfSiTF5jJ5Y2Np8u0\nvorK0qUBF+1cqXOtLXLNnLMPqLsSA+4DZLSvUcMCgYBKLHPwQYB/uc7U7Arbt08S\nDdAhqeJE+vJhrguAw9YeiYKDUoyMMguVT5bSuekBy9ndKNXRGgG3dOsbWuzCj272\na3R81glDSNXp8UDRf8SEk2H+CEEJBA6Il3dG1gIJ1UWnIS0+mjvoYFrKxQKQdeuK\n0elXmaXDaXmwU2nrkMkRtw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-sa@optimum-tensor-382601.iam.gserviceaccount.com",
+  "client_id": "110881756445759393934",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-sa%40optimum-tensor-382601.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
