@@ -5,6 +5,12 @@ provider "google" {
   zone        = "us-central1-a"
 }
 
+
+module "testvm-1" {
+
+  source = "./modules/module-1"
+  
+}
 resource "google_compute_network" "virtualnetwork" {
   name = "my-network"
 }
